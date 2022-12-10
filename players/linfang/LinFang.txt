@@ -1,0 +1,67 @@
+6-13-98
+
+================================================================
+
+Model Name              : LinFang
+
+installation directory  : quake2/baseq2/players/linfang
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : brian@zono.com
+
+Website Address         : www.michaeljwolf.com/brian/quake.htm
+
+Model description       : 
+
+	LinFang is a Shao-lin grandmaster. Much like Santa, LinFang keeps a list of those who have been naughty... He doesn't concern himself with the nice ones.
+
+Other info              : 
+	LinFang is my first model made with NST v0.9b1. I was a HUGE fan of 0.76 and the new         version is much MUCH! better. I got my texture waste down to 10%. I haven't even         looked at the skin/fx yet.
+
+Additional Credits to   : 
+	* Idsoftware 
+	* Q2modeler
+
+
+Thanks to               :
+
+	* Q2pmp  -  For humoring me in my endless stuggle to get a five out of your reviewers. I know I have a five star model in me somewhere, I just gotta find it. ;P
+	
+
+================================================================
+
+* Play Information *
+
+New Sounds              : NO
+
+CTF Skins               : YES
+
+VWEP Support            : No
+
+
+* Construction *
+
+Poly Count              : 648 tris.md2 / 64 weapon.md2
+
+Vert Count              : 352 tris.md2 / 31 weapon.md2
+
+Skin Count              : 1 DM, 2 CTF
+
+Base		        : Believe it or not, LinFang is based on Bauul.
+
+Editor used             : 
+		Modeling - lightwave	
+		Animation- lightwave + puppetmaster
+		Skining  - Q2modeler, NST
+		Painting - Photoshop, NST
+		
+Known Bugs              : None that i know of.
+
+Build/Animation time    : about 10 hours total over 2 days. (long boring weekend)
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

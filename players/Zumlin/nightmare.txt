@@ -1,0 +1,31 @@
+Name of skin : Nightmare, - For the Zumlin plug-in player Model
+Date         : February 17th, 1998
+Author       : Don "ThirteeN" McGonigal
+E-mail       : thirteen@poetic.com
+
+
+Files included
+-----------
+nightmare.pcx
+nightmare_i.pcx
+nightmare.txt
+
+
+About skin
+------
+Sumaleth made an awesome model, but I didn't think his skin was menacing enough.
+So I went for a more sinister look.  I 'borrowed' the leg textures from the 
+"MorbTank" skin by Dark Nova. He had a great 'reinforced spine' that I used for
+the legs.
+
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\zumlin  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

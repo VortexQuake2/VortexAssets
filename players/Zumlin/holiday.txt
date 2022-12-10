@@ -1,0 +1,18 @@
+                                  Fun Skins
+                                 -=========-
+
+This is a brief description of the skin...
+
+Holiday - Zumlin's gone on holiday, on Earth, but only to be called back to Stroggos
+          without having a chance to change he heads back to the battle field 
+
+Installation
+	Just pop the files in this archive in your 
+Quake2\baseq2\Players\zumlin directory to use him.
+
+Creditz
+
+Rowan "Sumaleth" Crawford -The Maker of Zumlin
+
+
+                      This file is Property of zapppy© co.

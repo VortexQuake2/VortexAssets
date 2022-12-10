@@ -1,0 +1,127 @@
+------
+ZUMLIN                                                            v1.0    16-Feb-98
+------
+
+Zumlin is a plugin player model for deathmatch play in Quake2. It is an entirely new
+model with all 20 animations, a new skin, a new weapon (and skin), a player icon and
+a story explaining his existance in the Quake2 story.
+
+Author:
+
+    Rowan "Sumaleth" Crawford
+
+    Email:                  sumaleth@starfury.apana.org.au
+    Fun Web:                http://impact.frag.com
+    Work Web:               http://www.animagrafx.com.au
+    Cool Web Hosters:       http://www.frag.com
+
+    Past Quake Projects:    Quake Rally, Quess     (mods)
+                            Morbo                  (Plugin Player Model)
+
+Installation:
+
+    The zip file must be extracted into the location of your quake2/ directory
+    (ie. NOT into the quake2/ directory - the one before it). The paths in the
+    zip are quake2/baseq2/players/zumlin/ so if you don't unpack into the right
+    location it won't work.
+
+    Once extracted, Zumlin will automatically appear in the player selection
+    field of the Multiplayer Options menu (*). Of course, it's only the other
+    players that get to see you as Zumlin so it really only works in multiplayer
+    games.
+
+    The server will not automatically send Zumlin to other players who don't have
+    him (unlike skins in QW which have that feature), but if someone is using
+    Zumlin and you don't have his model, you will just see them as the regular
+    Quake2 player models.
+
+    (*) Please note that there is a little problem with Quake2 and PMP's whereby
+    if you have any files in the /quake2/baseq2/players/ directory which AREN'T
+    real player model directories, then Q2 usually won't let you select additional
+    players from the Multiplayer menu. So if Morbo doesn't show up for selection,
+    just check there are no files in that directory.
+
+    Don't send bug reports please and please don't email me saying you can't get
+    it working.
+
+Whats it all about then?
+
+    Zumlin is my second PPM, the first one being Morbo which is available at
+    the Impact web page too. Whereas Morbo was more a learning experience (hence
+    I kept him fairly straightforward), I was fairly keen to do a lot more
+    with Zumlin, particularly in the area of animations.
+
+    The character is actually one of the baddies from a commerical Q2-engine-licensed
+    game I tried to get off the ground towards the end of 1997 which ultimately
+    didn't prove possible. At the time of closing the project down I had modelled
+    16 baddies for the game, of which Zumlin was one of the main ones. Once the
+    PPM concept took off I decided to resurrect Zumlin as a PPM since he was most
+    suitable of all the baddies for the PPM format.
+
+    Specs:
+
+        Polygons:   629 Zumlin
+                    63  weapon
+                    691 TOTAL
+        Frames:     198
+        Animations: 20
+
+        For comparison:
+
+         Male:      590 + 72 = 662
+         Morbo      449 + 51 = 500
+
+    Programs Used:
+
+        Modelling:  Lightwave Modeler
+        Animation:  Lightwave Layout
+        Skins:      GraFX2
+        Utils:      qdata  (special Lightwave version)
+                    qME    (misc testing)
+                    JAWmd2 (excellent for testing the skin while working on it)
+
+    Zumlin was tested ingame exclusively using Ridah's Eraser bot (also available
+    on the Impact web page).
+
+Important Stuff:
+
+    Zumlin and all associated files are copyright of Rowan Crawford. Quake2 is copyright
+    of id Software.
+
+    You are free to spread Zumlin far and wide although you are not allowed to make
+    money from Morbo in any way, shape or form.
+
+    Everyone is completely free to make additional skins for Zumlin, in fact I encourage
+    it! You can even use my skin as a basis if you like, as most people do with the
+    Quake skins. Please don't send me skins you have made for Morbo, instead send them
+    to the various Q2 skin pages like:
+
+    http://qwcentral.stomped.com        - Dragons skin packs
+    http://www.planetquake.com/q2pmp/   - Quake2 Player Models Pack
+    http://bodyshop.logicquest.com/     - The Body Shop
+
+    I promised in the Morbo readme that the base skin for my next PPM would be easier
+    to work with, and while it definitely is, it's still a little tricky in places.
+    His alien form should open up numerous possibilities for some really cool skins
+    though.
+
+    Also note that I'm actually planning to possibly rearrange the base skin somewhat
+    to get it to fit into 256x256 instead of the ~320x200 that it currently is. This
+    is because 3DFX cards can't handle textures larger than 256x256 so they actually
+    scale larger textures down. This unfortunately gives a pretty noticable drop in
+    texture resolution in the game, but NPherno (of NPherno's Skin Tool and NME) is
+    writing a program that will allow moving around and resizing of the base frame with
+    the texture res intact, so if he manages to pull that off I'll be using it on
+    Zumlin (and Morbo) and releasing updates.
+
+And In Closing...
+
+    Phew. Zumlin turned out to be just as much a learning experience as Morbo was
+    but ultimately I think he works really well in the game, offering another
+    alternative for those players who prefer something that fits into the game.
+    Have fun.
+
+    Thanks to everyone who helped out.
+
+- Rowan 'Sumaleth' Crawford
+
